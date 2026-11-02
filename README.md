@@ -183,15 +183,15 @@ Examined total power-sector CO₂ emissions and CO₂ intensity to understand th
 
 **Total Power-Sector CO₂ Emissions**
 
-![Total CO2 Emissions](
+![Total CO2 Emissions](india_power_sector_charts/Solarvswindcapacity.png)
 
-*Add your total emissions chart here.*
+
 
 **CO₂ Intensity**
 
-![CO2 Intensity](images/figure_9_co2_intensity.png)
+![CO2 Intensity]()
 
-*Add your CO₂ intensity chart here.*
+
 
 ---
 
