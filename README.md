@@ -189,7 +189,7 @@ Examined total power-sector CO₂ emissions and CO₂ intensity to understand th
 
 **CO₂ Intensity**
 
-![CO2 Intensity]()
+![CO2 Intensity](india_power_sector_charts/CO2intensity.png)
 
 
 
