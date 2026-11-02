@@ -131,7 +131,7 @@ Analyzed monthly and annual solar and wind electricity generation across the ava
 
 **Monthly Solar Generation**
 
-![Monthly Solar Generation](![Monthlywind)
+![Monthly Solar Generation](india_power_sector_charts/Indiasmonthlysolarelecgeneration.png)
 
 **Monthly Wind Generation**
 
