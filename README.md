@@ -141,7 +141,7 @@ Analyzed monthly and annual solar and wind electricity generation across the ava
 
 **Solar vs Wind Generation Comparison**
 
-![Solar vs Wind Comparison]()
+![Solar vs Wind Comparison](india_power_sector_charts/Solarvswind.png)
 
 *Add your solar and wind comparison chart here.*
 
