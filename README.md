@@ -137,13 +137,13 @@ Analyzed monthly and annual solar and wind electricity generation across the ava
 
 ![Monthly Wind Generation](india_power_sector_charts/Monthlywindelecgen.png)
 
-*Add your monthly wind generation chart here.*
+
 
 **Solar vs Wind Generation Comparison**
 
 ![Solar vs Wind Comparison](india_power_sector_charts/Solarvswind.png)
 
-*Add your solar and wind comparison chart here.*
+
 
 ### 2. State-Level Analysis (2024)
 
@@ -151,15 +151,15 @@ Compared solar and wind electricity generation across Indian states to identify 
 
 **Top 10 Solar-Generating States**
 
-![Top Solar States](images/figure_4_top_10_solar_states_2024.png)
+![Top Solar States](india_power_sector_charts/TOP10STATESSOLARGENERATION.png)
 
-*Add your top 10 solar states chart here.*
+
 
 **Top 10 Wind-Generating States**
 
-![Top Wind States](images/figure_5_top_10_wind_states_2024.png)
+![Top Wind States](india_power_sector_charts/Top10stateswindgeneration.png)
 
-*Add your top 10 wind states chart here.*
+
 
 ### 3. Installed Capacity Analysis
 
@@ -183,7 +183,7 @@ Examined total power-sector CO₂ emissions and CO₂ intensity to understand th
 
 **Total Power-Sector CO₂ Emissions**
 
-![Total CO2 Emissions](images/figure_8_total_co2_emissions.png)
+![Total CO2 Emissions](
 
 *Add your total emissions chart here.*
 
