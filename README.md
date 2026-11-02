@@ -173,9 +173,9 @@ Examined changes in installed solar and wind capacity between the available star
 
 Analyzed the percentage contribution of renewable energy to national electricity generation over time.
 
-![Renewable Electricity Share](images/figure_7_renewable_electricity_share.png)
+![Renewable Electricity Share](india_power_sector_charts/Renewableshareofelec.png)
 
-*Add your renewable electricity share chart here.*
+
 
 ### 5. Emissions and Sustainability Analysis
 
@@ -183,7 +183,7 @@ Examined total power-sector CO₂ emissions and CO₂ intensity to understand th
 
 **Total Power-Sector CO₂ Emissions**
 
-![Total CO2 Emissions](india_power_sector_charts/Solarvswindcapacity.png)
+![Total CO2 Emissions](india_power_sector_charts/CO2intensity.png)
 
 
 
