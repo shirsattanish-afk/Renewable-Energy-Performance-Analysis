@@ -165,9 +165,9 @@ Compared solar and wind electricity generation across Indian states to identify 
 
 Examined changes in installed solar and wind capacity between the available starting and latest reporting dates.
 
-![Installed Capacity Trend](images/figure_6_solar_vs_wind_capacity.png)
+![Installed Capacity Trend](india_power_sector_charts/Solarvswindcapacity.png)
 
-*Add your installed capacity chart here.*
+
 
 ### 4. Renewable Electricity Share
 
