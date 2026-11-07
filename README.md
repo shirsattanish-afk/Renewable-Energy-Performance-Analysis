@@ -42,7 +42,7 @@ This project investigates these indicators using India's monthly electricity dat
 **Analysis period:** January 2019 – November 2025  
 **Geographical coverage:** India, including national and state-level records.
 
-The dataset contains 238,200 records, according to the project report.
+The dataset contains 238,200 records
 
 Important fields include:
 
