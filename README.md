@@ -38,7 +38,7 @@ This project investigates these indicators using India's monthly electricity dat
 **Dataset:** India Monthly Electricity Data  
 **Publisher:** Ember  
 **Source:** [Ember – India Electricity Data](https://ember-energy.org/data/india-electricity-data/)  
-**Working file:** ![](india_monthly_full_release_long_format_cleaned.csv)  
+**Working file:** ![](https://github.com/shirsattanish-afk/Renewable-Energy-Performance-Analysis/blob/033630c42cf98c253466c9b465a7b51bf4ba9700/india_monthly_full_release_long_format_cleaned.csv)  
 **Analysis period:** January 2019 – November 2025  
 **Geographical coverage:** India, including national and state-level records.
 
